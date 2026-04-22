@@ -9,13 +9,13 @@ Expect imperfections. This will be improved and refined later as I learn more ab
 
 ## What This Is
 
-An icon pack folder with modifications to improve compatibility with GTK applications and GNOME Desktop. This is the result of quick, bare-minimum effort to make icons display better—not a final, production-ready package.
+An icon pack folder with modifications to improve compatibility with GTK applications and GNOME Desktop. This is the result of a quick, bare-minimum effort to make icons display better—not a final, production-ready package.
 
 ## Installation
 <a href="https://github.com/YassinOmer/GTK-Windows-11-Icon-pack/archive/refs/heads/main.zip"><img alt="Download Icon Pack ZIP" src="download.png" width="200"></a>
 1. Right-click, extract the file, and click Open in Console.
 2. Type ```sudo mv "Icon pack folder name" /usr/share/icons```.
-3. Use ([Refine](https://flathub.org/en/apps/page.tesk.Refine), [GNOME Tweaks](https://gitlab.gnome.org/GNOME/gnome-tweaks), or similar tool) to apply this icon pack.
+3. Use ([Refine](https://flathub.org/en/apps/page.tesk.Refine), [GNOME Tweaks](https://gitlab.gnome.org/GNOME/gnome-tweaks), or a similar tool) to apply this icon pack.
 
 **Note**: Installation instructions may vary. You may need to adjust file paths or use additional tools depending on your setup.
 
