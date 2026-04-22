@@ -9,7 +9,7 @@ Expect imperfections. This will be improved and refined later as I learn more ab
 
 ## What This Is
 
-An icon pack folder with modifications to improve compatibility with GTK applications and GNOME Desktop. This is the result of a quick, bare-minimum effort to make icons display better—not a final, production-ready package.
+An icon theme with modifications to improve compatibility with GTK applications and the GNOME Desktop. This is the result of a quick, bare-minimum effort to make icons display better—not a final, production-ready package.
 
 ## Installation
 <a href="https://github.com/YassinOmer/GTK-Windows-11-Icon-pack/archive/refs/heads/main.zip"><img alt="Download Icon Pack ZIP" src="download.png" width="200"></a>
