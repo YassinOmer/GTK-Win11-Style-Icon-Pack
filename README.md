@@ -1,5 +1,4 @@
-# GTK Windows 11 Style Icon Pack
-
+# Windows 11 Style GTK Icon Theme
 A quick experimental fork of the [Windows Eleven Icon Pack](https://github.com/zayronxio/windows-eleven-skin) with modifications for better GTK/GNOME support.
 
 ## ⚠️ Work in Progress
