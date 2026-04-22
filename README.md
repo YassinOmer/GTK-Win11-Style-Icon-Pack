@@ -1,1 +1,0 @@
-# GTK-Windows-11-Style-Icon-pack
