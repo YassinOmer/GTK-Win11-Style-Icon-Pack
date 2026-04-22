@@ -1,4 +1,4 @@
-# Windows 11 Icon Pack (GTK/GNOME Fork)
+# GTK Windows 11 Style Icon Pack
 
 A quick experimental fork of the [Windows Eleven Icon Pack](https://github.com/zayronxio/windows-eleven-skin) with modifications for better GTK/GNOME support.
 
@@ -14,8 +14,9 @@ An icon pack folder with modifications to improve compatibility with GTK applica
 
 ## Installation
 <a href="https://github.com/YassinOmer/GTK-Windows-11-Icon-pack/archive/refs/heads/main.zip"><img alt="Download Icon Pack ZIP" src="download.png" width="200"></a>
-1. Open a terminal, type ```sudo mv "Icon pack folder name" /usr/share/icons```.
-2. Use ([Refine](https://flathub.org/en/apps/page.tesk.Refine), [GNOME Tweaks](https://gitlab.gnome.org/GNOME/gnome-tweaks), or similar tool) to apply this icon pack.
+1. Right-click, extract the file, and click Open in Console.
+2. Type ```sudo mv "Icon pack folder name" /usr/share/icons```.
+3. Use ([Refine](https://flathub.org/en/apps/page.tesk.Refine), [GNOME Tweaks](https://gitlab.gnome.org/GNOME/gnome-tweaks), or similar tool) to apply this icon pack.
 
 **Note**: Installation instructions may vary. You may need to adjust file paths or use additional tools depending on your setup.
 
